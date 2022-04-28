@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://sashank003.github.io/Chemical-Dept.-NITC/assets/Logo%20white.png" align="center" width="25%"/>
+<img src="https://sashank003.github.io/Chemical-Dept.-NITC/assets/Logo%20white.png" align="center" width="18%"/>
 </p>
 # B. Tech Final Year project 2021-2022 
 
