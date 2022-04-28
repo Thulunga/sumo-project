@@ -1,6 +1,9 @@
 # B. Tech Final Year project 2021-2022 
-Thulunga Basumatary B170399CS
-Mainampathi Vigneshwary Reddy B170315CS
+
+## Title: Adaptive Traffic Signal Control (ATSC) algorithm
+
+<p>Thulunga Basumatary B170399CS</p>
+<p>Mainampathi Vigneshwary Reddy B170315CS</p>
 
 <img src="outputs/logo.png" align="right" width="30%"/>
 
