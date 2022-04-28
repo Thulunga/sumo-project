@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://sashank003.github.io/Chemical-Dept.-NITC/assets/Logo%20white.png" align="center" width="75%"/>
+</p>
 # B. Tech Final Year project 2021-2022 
 
 ## Title: Adaptive Traffic Signal Control (ATSC) algorithm
@@ -56,6 +59,8 @@ pip install sumo-rl
 ```
 
 Alternatively you can install using the latest (unreleased) version
+
+# cloning the repo and start training
 ```bash
 git clone https://github.com/Thulunga/sumo-project.git
 cd sumo-project
