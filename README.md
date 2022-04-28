@@ -6,9 +6,10 @@
 ## Title: Adaptive Traffic Signal Control (ATSC) algorithm
 
 ## Published- ICPCSN045
+<h3>Authors</h3>
+<p>Thulunga Basumatary B170399CS<br>Mainampathi Vigneshwary Reddy B170315CS</p>
+<p>Under the Guidance of M Prabu</p>
 
-<p>Thulunga Basumatary B170399CS</p>
-<p>Mainampathi Vigneshwary Reddy B170315CS</p>
 
 <img src="outputs/logo.png" align="right" width="30%"/>
 
