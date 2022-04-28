@@ -142,15 +142,3 @@ python outputs/plot.py -f outputs/2way-single-intersection/a3c
 <img src="outputs/result.png" align="center" width="50%"/>
 </p>
 
-## Citing
-If you use this repository in your research, please cite:
-```bibtex
-@misc{sumorl,
-    author = {Lucas N. Alegre},
-    title = {{SUMO-RL}},
-    year = {2019},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/LucasAlegre/sumo-rl}},
-}
-```
