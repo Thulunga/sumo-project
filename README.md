@@ -1,3 +1,7 @@
+# B. Tech Final Year project 2021-2022 
+Thulunga Basumatary B170399CS
+Mainampathi Vigneshwary Reddy B170315CS
+
 <img src="outputs/logo.png" align="right" width="30%"/>
 
 [![tests](https://github.com/LucasAlegre/sumo-rl/actions/workflows/linux-test.yml/badge.svg)](https://github.com/LucasAlegre/sumo-rl/actions/workflows/linux-test.yml)
@@ -50,8 +54,8 @@ pip install sumo-rl
 
 Alternatively you can install using the latest (unreleased) version
 ```bash
-git clone https://github.com/LucasAlegre/sumo-rl
-cd sumo-rl
+git clone https://github.com/Thulunga/sumo-project.git
+cd sumo-project
 pip install -e .
 ```
 
