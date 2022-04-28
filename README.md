@@ -8,7 +8,11 @@
 ## Published- ICPCSN045
 <h3>Authors</h3>
 <p>Thulunga Basumatary B170399CS<br>Mainampathi Vigneshwary Reddy B170315CS</p>
-<p>Under the Guidance of M Prabu</p>
+<h3>Under the Guidance of </h3>
+<p> Prabu Mohandas<br>
+Assistant Professor, Department of Computer Science and Engineering<br>
+National Institute of Technology Calicut
+</p>
 
 
 <img src="outputs/logo.png" align="right" width="30%"/>
