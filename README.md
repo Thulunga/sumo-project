@@ -11,8 +11,10 @@
 <h3>Under the Guidance of </h3>
 <p> Prabu Mohandas<br>
 Assistant Professor, Department of Computer Science and Engineering<br>
-National Institute of Technology Calicut
+National Institute of Technology Calicut<br>
+    https://people.cse.nitc.ac.in/prabum
 </p>
+
 
 
 <img src="outputs/logo.png" align="right" width="30%"/>
